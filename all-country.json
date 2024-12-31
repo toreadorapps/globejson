@@ -46,7 +46,14 @@
     ],
     "continents": [
       "Antarctica"
-    ]
+    ],
+    "nationalAnthem": {
+      "title": "",
+      "eng": "",
+      "lyricist": "",
+      "info": "",
+      "url": ""
+    }
   },
   {
     "flags": {
@@ -96,7 +103,14 @@
     ],
     "continents": [
       "North America"
-    ]
+    ],
+    "nationalAnthem": {
+      "title": "Hail Grenada, land of ours",
+      "eng": "Hail Grenada",
+      "lyricist": "Irva Merle Baptiste",
+      "info": "Hail Grenada has been the national anthem of Grenada since the country gained independence in 1974. The anthem reflects national pride and unity.",
+      "url": "https://drive.google.com/uc?export=download&id=17DzHLGkIp6KaqL3DyvEpGT8g4aYEt4Ot"
+    }
   },
   {
     "flags": {
@@ -166,7 +180,14 @@
     ],
     "continents": [
       "Europe"
-    ]
+    ],
+    "nationalAnthem": {
+  "title": "Swiss Psalm",
+  "eng": "Swiss Psalm",
+  "lyricist": "Giacomo Casanova (lyrics), Alberich Zwyssig (music)",
+  "info": "The Swiss national anthem, 'Swiss Psalm' (Schweizerpsalm), was adopted as the national anthem in 1981. The anthem emphasizes the beauty and the strength of the Swiss landscape and the unity of the Swiss people. The anthem's lyrics were written by Giacomo Casanova, and the music composed by Alberich Zwyssig.",
+  "url": "https://drive.google.com/uc?export=download&id=13uYN7JSRlBf7iAsSJWKyh6sCTH3WnM_S"
+}
   },
   {
     "flags": {
@@ -2564,7 +2585,14 @@
     ],
     "continents": [
       "Asia"
-    ]
+    ],
+    "nationalAnthem": {
+      "title": "Da Watan Afghanistan Di.",
+      "eng": "This land is Afghanistan.",
+      "lyricist": "Abdul Bari Jahani",
+      "info": "The anthem was officially adopted in May 2006 following its approval by a Loya Jirga (Grand Assembly), in accordance with Article 20 of the Afghan constitution, which stipulates that the national anthem should be in Pashto and include references to the country's various ethnic groups.",
+      "url": "https://drive.google.com/uc?export=download&id=1Jf0BDD6ClAs5fVBqfxZP40-sZ0kF4tSc"
+    }
   },
   {
     "flags": {
