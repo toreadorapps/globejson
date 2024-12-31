@@ -2303,7 +2303,14 @@
     ],
     "continents": [
       "Asia"
-    ]
+    ],
+    nationalAnthem: {
+      "title": "Amar Sonar Bangla Ami Tumay Valobashi.",
+      "eng": "My golden Bangla, I love you.",
+      "lyricist": "Rabindranath Tagore",
+      "info": "Its a beautiful song.",
+      "url": "https://drive.google.com/file/d/1fXAvVRzVzDxqN9vezH5NnGrh1J2oLmjq/view?export=download"
+    }
   },
   {
     "flags": {
